@@ -3,7 +3,7 @@
 # downloads a finished container instead of compiling on an SD card. Bump `version` here
 # to release; it is the image tag, and it is what surfaces the Update button.
 name: MackCommand (Edge)
-version: "0.177.0"
+version: "0.178.0"
 slug: mackcommand-edge
 description: MackCommand canary channel — the flagship only. Never install on a client hub.
 url: https://mackcommand.com
